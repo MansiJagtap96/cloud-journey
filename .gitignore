@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# AWS credentials
+.aws/
+credentials
+
+# Private keys
+*.pem
+*.key
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db
